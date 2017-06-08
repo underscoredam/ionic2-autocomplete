@@ -2,14 +2,8 @@
   "name": "ionic2-auto-complete",
   "version": "1.5.0-release",
   "scripts": {
-    "build": "gulp build",
-    "build:watch": "gulp",
-    "docs": "npm run docs:build",
-    "docs:build": "compodoc -p tsconfig.json -n ionic2-auto-complete -d docs --hideGenerator",
-    "docs:serve": "npm run docs:build -- -s",
-    "docs:watch": "npm run docs:build -- -s -w",
-    "lint": "tslint --type-check --project tsconfig.json src/**/*.ts",
-    "test": "tsc && karma start"
+    "test": "echo no tests",
+    "start": "echo program started"
   },
   "repository": {
     "type": "git",
