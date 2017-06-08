@@ -21,7 +21,7 @@
   "bugs": {
     "url": "https://github.com/kadoshms/ionic2-autocomplete/issues"
   },
-  "devDependencies": {
+  "dependencies": {
     "@compodoc/compodoc": "^1.0.0-beta.7",
     "@types/jasmine": "2.5.38",
     "@types/node": "~6.0.60",
