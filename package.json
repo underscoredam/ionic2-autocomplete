@@ -3,7 +3,8 @@
   "version": "1.5.0-release",
   "scripts": {
     "test": "echo no tests",
-    "start": "echo program started"
+    "start": "echo program started",
+    "prepare": "echo preparing && tsc && echo prepared"
   },
   "repository": {
     "type": "git",
